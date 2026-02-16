@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+**URL**: https://sweet-sync-stack.lovable.app/auth
 
 ## How can I edit this code?
 
